@@ -383,7 +383,7 @@ p {
 }
 #projects .project-img:after {
 	content: '';
-	position: absolute;
+	position: static;
 	left: 0;
 	top: 0;
 	height: 100%;
